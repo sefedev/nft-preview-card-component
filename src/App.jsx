@@ -11,7 +11,7 @@ function App() {
               className="w-full rounded-lg"
               alt="Equilibrum image"
             />
-            <div class="flex justify-center items-center absolute inset-0 bg-cyan opacity-0 hover:opacity-75 transition-opacity duration-150">
+            <div class="flex justify-center items-center absolute inset-0 bg-cyan opacity-0 hover:opacity-75 hover:cursor-pointer transition-opacity duration-150">
               <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" className="hover:scale-150 duration-150">
                 <g fill="none" fill-rule="evenodd">
                   <path d="M0 0h48v48H0z" />
