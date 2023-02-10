@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live preview](https://your-live-site-url.com)
+- Live Site URL: [Live preview](https://sefe-nft-card.netlify.app/)
 
 ## My process
 
